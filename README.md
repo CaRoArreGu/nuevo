@@ -1,3 +1,2 @@
-# nuevo
-repo nuevo
+# Primer cambio
 Aqui empiezo mi nuevo repositorio
